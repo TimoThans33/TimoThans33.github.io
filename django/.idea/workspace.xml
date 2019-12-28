@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc2415b8-0dcc-4a58-a3f2-140559ed9668" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Setup Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VQQxvfupkCjGVPncfGxPaTWKB3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mysite/mysite/templates/mechatronics" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc2415b8-0dcc-4a58-a3f2-140559ed9668" name="Default Changelist" comment="" />
+      <created>1577183089726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577183089726</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="898" y="188" key="SettingsEditor" timestamp="1577185208993">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="898" y="188" key="SettingsEditor/67.27.1853.1053/1920.0.3200.1800@67.27.1853.1053" timestamp="1577185208993" />
+    <state x="602" y="351" key="com.intellij.ide.util.TipDialog" timestamp="1577529031842">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="602" y="351" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.27.1920.1053/3840.0.3200.1800@0.27.1920.1053" timestamp="1577529031842" />
+    <state x="548" y="295" key="com.intellij.ide.util.TipDialog/67.27.1533.872@67.27.1533.872" timestamp="1577485860421" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053/1920.0.3200.1800@67.27.1853.1053" timestamp="1577185432093" />
+    <state x="1226" y="466" width="540" height="172" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1577184706003">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="1226" y="466" width="540" height="172" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/67.27.1853.1053/1920.0.3200.1800@67.27.1853.1053" timestamp="1577184706003" />
+  </component>
+</project>
